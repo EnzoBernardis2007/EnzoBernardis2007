@@ -1,12 +1,20 @@
-# Hello!
+# Olá, eu sou o Enzo! 👋
+*Pronomes: **Ele/Dele***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoBernardis2007&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+*Tecnologia favorita: **C#***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBernardis2007)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Sobre mim
+Eu sou um estudante de programação cursando o ensino técnico na ETEC de Hortolândia
 
-<a href="https://github.com/EnzoBernardis2007/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoBernardis2007&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/EnzoBernardis2007/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoBernardis2007&repo=convoychat" />
-</a>
+
+## 🛠 Tecnologias
+Eu sei...
+* **Frontend:**  HTML5, CSS, Javascript, React, React Native
+* **Backend:** C#, .NET, Java, Python
+* **Desktop:** WPF 
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enzo-bernardis-9aa1a22b7)
+
+
