@@ -13,16 +13,17 @@
 
 <p align="left">
   <strong>Minha stack:</strong> <br>
-  🖌️ Frontend: React, React Native, TypeScript, Tailwind CSS <br>
-  ⚙️ Backend: ASP.NET, NodeJS, Express, MySQL <br>
+  🖌️ Frontend: React, TypeScript, Tailwind CSS, SASS <br>
+  ⚙️ Backend: ASP.NET, Express, Java Spring Boot <br>
   📱 Mobile: React Native <br>
   🖥️ Desktop: C# (.NET), WPF <br>
-  🎲 Banco de dados: MySQL <br>
-  📦 Controle de versão: Git/GitHub
+  🎲 Banco de dados: MySQL, PostgreSQL <br>
+  📦 Controle de versão: Git/GitHub <br>
+  ➕ Linguagens adicionais: C, Python
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas</strong>: Visual Studio Code, Visual Studio, Imsomnia, Jira, Notion
+  💼 <strong>Ferramentas</strong>: Visual Studio Code, Visual Studio, Imsomnia, Postman, Jira, Notion
 </p>
 
 <div align="center">
